@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoilyLines:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoilyLines_jar</output-path>
+    <root id="archive" name="DoilyLines.jar">
+      <element id="module-output" name="DoilyLines" />
+    </root>
+  </artifact>
+</component>
